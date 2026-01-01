@@ -1,8 +1,8 @@
 const CACHE_NAME = 'period-tracker-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/manifest.json'
+  './',
+  './index.html',
+  './manifest.json'
 ];
 
 // Install service worker
